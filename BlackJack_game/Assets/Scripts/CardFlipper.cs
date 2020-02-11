@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// code found: https://www.youtube.com/watch?v=cBBTleM36o8
 public class CardFlipper : MonoBehaviour
 {
     SpriteRenderer spriteRenderer;
