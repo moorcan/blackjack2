@@ -65,9 +65,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CardFlipper.cs" />
     <Compile Include="Assets\Scripts\CardModel.cs" />
+    <Compile Include="Assets\Scripts\CardRemovedDelegate.cs" />
+    <Compile Include="Assets\Scripts\CardRemovedEventArgs.cs" />
     <Compile Include="Assets\Scripts\CardStack.cs" />
     <Compile Include="Assets\Scripts\CardStackView.cs" />
+    <Compile Include="Assets\Scripts\CardView.cs" />
     <Compile Include="Assets\Scripts\DebugChangeCard.cs" />
+    <Compile Include="Assets\Scripts\DebugDealer.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/candance/Desktop/CS211/blackjack2/BlackJack_game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
